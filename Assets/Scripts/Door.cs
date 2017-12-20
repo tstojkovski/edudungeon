@@ -18,4 +18,8 @@ public class Door : MonoBehaviour {
 		animator.SetBool("Locked", false);
 
 	}
+
+	public bool IsLocked() {
+		return animator.GetBool("Locked");
+	}
 }

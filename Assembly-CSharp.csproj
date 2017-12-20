@@ -51,13 +51,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\AnswerDialog.cs" />
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\Door.cs" />
+     <Compile Include="Assets\Scripts\MultiQuestionXMLBase.cs" />
      <Compile Include="Assets\Scripts\NextLevel.cs" />
      <Compile Include="Assets\Scripts\NPCMovement.cs" />
      <Compile Include="Assets\Scripts\NPCOpenDoor.cs" />
+     <Compile Include="Assets\Scripts\NPCQuestionAnswer.cs" />
      <Compile Include="Assets\Scripts\NPCTalk.cs" />
      <Compile Include="Assets\Scripts\PlayerControl.cs" />
+     <Compile Include="Assets\Scripts\QuestionBase.cs" />
+     <Compile Include="Assets\Scripts\QuestionBaseMulti.cs" />
+     <Compile Include="Assets\Scripts\QuestionDialog.cs" />
+     <Compile Include="Assets\Scripts\QuestionDialogBase.cs" />
+     <Compile Include="Assets\Scripts\QuestionDialogMulti.cs" />
+     <Compile Include="Assets\Scripts\ReadingToggle.cs" />
+     <Compile Include="Assets\Scripts\SaveInPlayersPrefs.cs" />
+     <None Include="Assets\XMLs\QuestionBase.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
