@@ -1450,11 +1450,6 @@ Prefab:
       propertyPath: m_RootOrder
       value: 18
       objectReference: {fileID: 0}
-    - target: {fileID: 114109744179475656, guid: 9d7c9cc969592d346aaf4d0cd0d5fa04,
-        type: 2}
-      propertyPath: doorObject
-      value: 
-      objectReference: {fileID: 1400126164}
     - target: {fileID: 114777232031052944, guid: 9d7c9cc969592d346aaf4d0cd0d5fa04,
         type: 2}
       propertyPath: npcMovingPath.Array.data[0]
@@ -1465,6 +1460,11 @@ Prefab:
       propertyPath: npcMovingPath.Array.data[1]
       value: 
       objectReference: {fileID: 280464908}
+    - target: {fileID: 114109744179475656, guid: 9d7c9cc969592d346aaf4d0cd0d5fa04,
+        type: 2}
+      propertyPath: doorObject
+      value: 
+      objectReference: {fileID: 1400126164}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9d7c9cc969592d346aaf4d0cd0d5fa04, type: 2}
   m_IsPrefabParent: 0
@@ -1831,6 +1831,47 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e7529aae11c511e45ad43c45516a936e, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1923928104
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1923928106}
+  - component: {fileID: 1923928105}
+  m_Layer: 0
+  m_Name: QuestionBase
+  m_TagString: QuestionBase
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1923928105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1923928104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9f67e29e3bb34b479021cbd2e5cc9a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textXml: {fileID: 4900000, guid: 3c9799ddc07b64aa88204f97eddcd576, type: 3}
+--- !u!4 &1923928106
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1923928104}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.6603117, y: -2.5959513, z: 0.036298607}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2081494569
 GameObject:
   m_ObjectHideFlags: 0
