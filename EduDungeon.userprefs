@@ -1,12 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SaveInPlayersPrefs.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\XMLs\QuestionBase2.xml">
     <Files>
-      <File FileName="Assets/Scripts/NPCTalk.cs" Line="17" Column="1" />
-      <File FileName="Assets/Scripts/PlayerControl.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/NPCOpenDoor.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/MultiQuestionXMLBase.cs" Line="66" Column="60" />
-      <File FileName="Assets/Scripts/SaveInPlayersPrefs.cs" Line="12" Column="49" />
+      <File FileName="Assets\Scripts\NPCTalk.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NPCOpenDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MultiQuestionXMLBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SaveInPlayersPrefs.cs" Line="1" Column="1" />
+      <File FileName="Assets\XMLs\QuestionBase2.xml" Line="60" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
