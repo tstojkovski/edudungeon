@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Questions>
+	<Question id="1">
+		<text>2 + 2 = ?</text>
+		<Answers>
+			<Answer>
+				<text>4</text>
+				<correct>true</correct>
+			</Answer>
+			<Answer>
+				<text>3</text>
+				<correct>false</correct>
+			</Answer>
+			<Answer>
+				<text>5</text>
+				<correct>false</correct>
+			</Answer>
+		</Answers>
+	</Question>
+	<Question id="2">
+		<text>2 + 3 = ?</text>
+		<Answers>
+			<Answer>
+				<text>4</text>
+				<correct>false</correct>
+			</Answer>
+			<Answer>
+				<text>6</text>
+				<correct>false</correct>
+			</Answer>
+			<Answer>
+				<text>5</text>
+				<correct>true</correct>
+			</Answer>
+		</Answers>
+	</Question>
+	<Question id="3">
+		<text>2 + 3 = 5</text>
+		<Answers>
+			<Answer>
+				<text>yes</text>
+				<correct>true</correct>
+			</Answer>
+			<Answer>
+				<text>no</text>
+				<correct>false</correct>
+			</Answer>
+		</Answers>
+	</Question>
+</Questions>

@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: 35b8ddf9b107443c08ed7b0afcd88385
+timeCreated: 1513804551
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dog_2_0
+    21300002: dog_2_1
+    21300004: dog_2_2
+    21300006: dog_2_3
+    21300008: dog_2_4
+    21300010: dog_2_5
+    21300012: dog_2_6
+    21300014: dog_2_7
+    21300016: dog_2_8
+    21300018: dog_2_9
+    21300020: dog_2_10
+    21300022: dog_2_11
+    21300024: dog_2_12
+    21300026: dog_2_13
+    21300028: dog_2_14
+    21300030: dog_2_15
+    21300032: dog_2_16
+    21300034: dog_2_17
+    21300036: dog_2_18
+    21300038: dog_2_19
+    21300040: dog_2_20
+    21300042: dog_2_21
+    21300044: dog_2_22
+    21300046: dog_2_23
+    21300048: dog_2_24
+    21300050: dog_2_25
+    21300052: dog_2_26
+    21300054: dog_2_27
+    21300056: dog_2_28
+    21300058: dog_2_29
+    21300060: dog_2_30
+    21300062: dog_2_31
+    21300064: dog_2_32
+    21300066: dog_2_33
+    21300068: dog_2_34
+    21300070: dog_2_35
+    21300072: dog_2_36
+    21300074: dog_2_37
+    21300076: dog_2_38
+    21300078: dog_2_39
+    21300080: dog_2_40
+    21300082: dog_2_41
+    21300084: dog_2_42
+    21300086: dog_2_43
+    21300088: dog_2_44
+    21300090: dog_2_45
+    21300092: dog_2_46
+    21300094: dog_2_47
+    21300096: dog_2_48
+    21300098: dog_2_49
+    21300100: dog_2_50
+    21300102: dog_2_51
+    21300104: dog_2_52
+    21300106: dog_2_53
+    21300108: dog_2_54
+    21300110: dog_2_55
+    21300112: dog_2_56
+    21300114: dog_2_57
+    21300116: dog_2_58
+    21300118: dog_2_59
+    21300120: dog_2_60
+    21300122: dog_2_61
+    21300124: dog_2_62
+    21300126: dog_2_63
+    21300128: dog_2_64
+    21300130: dog_2_65
+    21300132: dog_2_66
+    21300134: dog_2_67
+    21300136: dog_2_68
+    21300138: dog_2_69
+    21300140: dog_2_70
+    21300142: dog_2_71
+    21300144: dog_2_72
+    21300146: dog_2_73
+    21300148: dog_2_74
+    21300150: dog_2_75
+    21300152: dog_2_76
+    21300154: dog_2_77
+    21300156: dog_2_78
+    21300158: dog_2_79
+    21300160: dog_2_80
+    21300162: dog_2_81
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dog_2_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 36
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog_2_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 37
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dog_2_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

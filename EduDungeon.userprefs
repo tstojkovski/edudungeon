@@ -1,9 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NPCOpenDoor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SaveInPlayersPrefs.cs">
     <Files>
-      <File FileName="Assets/Scripts/PlayerControl.cs" Line="40" Column="50" />
+      <File FileName="Assets/Scripts/NPCTalk.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="1" Column="1" />
       <File FileName="Assets/Scripts/NPCOpenDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MultiQuestionXMLBase.cs" Line="66" Column="60" />
+      <File FileName="Assets/Scripts/SaveInPlayersPrefs.cs" Line="12" Column="49" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
